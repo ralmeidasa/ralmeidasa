@@ -38,12 +38,3 @@
 -->
 
 <br><br>
-
-## Contact
-
-  
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/rafael-almeida-desenvolvedor/" target="_blank"> 
-   <img align="center" src="![image](https://github.com/ralmeidasa/ralmeidasa/assets/126121705/90ac18e3-2a63-493a-81fb-5de9926e64a3)" alt="linkedin"/>
-</a>
-</p>
