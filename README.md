@@ -9,7 +9,7 @@
 - 
 - 📫 How to reach me: 
 rafaelalmeidasa@gmail.com
-< a href="https://www.linkedin.com/in/rafaelalmeida-desenvolvedor/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rafaelalmeida-desenvolvedor/">LinkedIn</a>
 
 <!--
 
