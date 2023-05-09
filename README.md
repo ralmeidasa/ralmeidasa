@@ -8,10 +8,8 @@
 - 🌱 I’m currently learning CSS, HTML, JavaScript, Node.JS, SQL, React, Python, RUBY, RoR, JAVA.
 - 
 - 📫 How to reach me: 
-<p>
-  rafaelalmeidasa@gmail.com
-</p>
-<p>
+<br>
+rafaelalmeidasa@gmail.com
 <a href="https://www.linkedin.com/in/rafaelalmeida-desenvolvedor/">LinkedIn</a>
 </p>
 
