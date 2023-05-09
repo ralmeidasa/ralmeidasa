@@ -44,7 +44,7 @@
   
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/rafael-almeida-desenvolvedor/" target="_blank">
-  <img align="center" src="![image](https://github.com/ralmeidasa/ralmeidasa/assets/126121705/6ce98a59-773d-4221-b4e9-90df56fca314)
+  <img align="center" src="https://github.com/ralmeidasa/ralmeidasa/assets/126121705/6ce98a59-773d-4221-b4e9-90df56fca314
 " alt="linkedin"/>
 </a>
 </p>
