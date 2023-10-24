@@ -4,7 +4,7 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">I'm Rafael Almeida</h1>
 
-🔥 Web Developer.
+🚀 Web Developer.
 
 ---
 ### Contacts
